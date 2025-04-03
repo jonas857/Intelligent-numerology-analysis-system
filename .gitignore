@@ -1,0 +1,28 @@
+# Node.js 相关
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+package-lock.json
+yarn.lock
+
+# 编辑器和IDE相关
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 操作系统相关
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.log
+*.tmp
+temp/
+tmp/
+
+# 测试文件
+check.js
+findlink.js
+replace.js 
